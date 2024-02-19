@@ -12,9 +12,7 @@ This script is designed to take the hassle out of converting text files to UTF-8
 - Converts files to UTF-8 encoding
 - Skips files already in UTF-8 format
 - Handles large files by processing in chunks
-- Provides colored terminal output for easy status recognition
 - Utilizes multiprocessing to handle multiple files concurrently
-- Error handling for Unicode decode errors
 
 ## Installation
 
