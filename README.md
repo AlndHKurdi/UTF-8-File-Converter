@@ -6,6 +6,8 @@ A Python utility to convert text files within a specified directory to UTF-8 enc
 
 This script is designed to take the hassle out of converting text files to UTF-8 encoding. With the prevalence of UTF-8 as a standard encoding for text files, ensuring compatibility across different platforms and devices is important. This tool will scan all files in a specified directory, detect their encoding, and convert them to UTF-8. It will skip files already in UTF-8 format and handle any conversion errors encountered.
 
+![Screenshot 2024-02-19 235444](https://github.com/Alndhkordi/UTF-8-File-Converter/assets/60517527/dc780bbb-5406-412b-959c-c835492bcc97)
+
 ## Features
 
 - Detects file encoding using `chardet`
