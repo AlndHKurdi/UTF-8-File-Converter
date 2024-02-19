@@ -1,6 +1,6 @@
 # UTF-8 File Converter
 
-A Python utility to convert text files within a specified directory to UTF-8 encoding. The script detects the current encoding of each file using the `chardet` library and then performs the conversion, handling any Unicode decode errors gracefully. It's designed for ease of use in a terminal environment and provides feedback with color-coded messages.
+A Python utility to convert text files within a specified directory to UTF-8 encoding. The script detects the current encoding of each file using the `chardet` library and then performs the conversion, handling any Unicode decode errors gracefully. 
 
 ## Description
 
